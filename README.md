@@ -46,7 +46,7 @@ No external libraries. No installation headaches. Just Python 3 and a terminal.
 
 ```bash
 # Clone the repository
-git clone https://github.com/KronosA9/netfix.git
+git clone https://github.com/renaudbako/netfix.git
 cd netfix
 
 # Run the script
